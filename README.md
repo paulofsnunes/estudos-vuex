@@ -1,5 +1,8 @@
 # app-mutations
 
+### Estudos com Vuex. Aqui trabalhamos State Management, Gerenciamento Global, $store, mapState, mutations, Payload, mapMutations, ALL_CAPS, actions, mapActions, getters, mapGetters, modules e namespaced.
+
+
 ## Project setup
 ```
 npm install
