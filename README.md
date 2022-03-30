@@ -1,5 +1,7 @@
 # Estudos com Vuex
 
+## Continuação do repositório "vue-state_mutations"
+
 ### Aqui trabalhamos State Management, Gerenciamento Global, $store, mapState, mutations, Payload, mapMutations, ALL_CAPS, actions, mapActions, getters, mapGetters, modules e namespaced.
 
 
